@@ -1,0 +1,1 @@
+A rich text editor based on [Draft.js](https://draftjs.org/).
